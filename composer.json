@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Recca0120\\Every8d\\": "src/"
+            "jungbaksacom\\Every8d\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Recca0120\\Every8d\\Tests\\": "tests/"
+            "jungbaksacom\\Every8d\\Tests\\": "tests/"
         }
     },
     "suggest": {
@@ -47,7 +47,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Recca0120\\Every8d\\Every8dServiceProvider"
+                "jungbaksacom\\Every8d\\Every8dServiceProvider"
             ]
         }
     }
